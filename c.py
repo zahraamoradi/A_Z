@@ -1,4 +1,4 @@
-n = 6
+n = 10
 s = n
 q = []
 for i in range(n, 0, -1):
